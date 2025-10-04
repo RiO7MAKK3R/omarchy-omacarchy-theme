@@ -1,0 +1,94 @@
+# ~/.config/alacritty/alacritty.yml
+# Omacharchy - macOS-inspired Pure Grayscale Theme
+
+[colors]
+
+# ===============================
+# Primary
+# ===============================
+[colors.primary]
+background     = "#1C1C1E"   # Dark graphite background
+foreground     = "#FFFFFF"   # White text for maximum readability
+dim_foreground = "#A0A0A0"   # Medium gray for less important text
+bright_foreground = "#FFFFFF"
+
+# ===============================
+# Cursor
+# ===============================
+[colors.cursor]
+text   = "#1C1C1E"           # Matches terminal background
+cursor = "#FFFFFF"           # White cursor for clarity
+
+[colors.vi_mode_cursor]
+text   = "#1C1C1E"
+cursor = "#FFFFFF"
+
+# ===============================
+# Search highlights
+# ===============================
+[colors.search.matches]
+foreground = "#FFFFFF"
+background = "#808080"       # Medium gray highlight
+
+[colors.search.focused_match]
+foreground = "#FFFFFF"
+background = "#A0A0A0"       # Slightly lighter gray focus
+
+# ===============================
+# Footer / Hints
+# ===============================
+[colors.footer_bar]
+foreground = "#FFFFFF"
+background = "#2C2C2E"       # Dark gray separator
+
+[colors.hints.start]
+foreground = "#FFFFFF"
+background = "#A0A0A0"       # Medium gray hints
+
+[colors.hints.end]
+foreground = "#FFFFFF"
+background = "#C0C0C0"       # Light gray hints
+
+# ===============================
+# Selection / highlight
+# ===============================
+[colors.selection]
+text       = "#FFFFFF"
+background = "#808080"       # Medium gray selection
+
+# ===============================
+# Normal ANSI Colors (all gray shades)
+# ===============================
+[colors.normal]
+black   = "#1C1C1E"
+red     = "#4A4A4A"
+green   = "#5A5A5A"
+yellow  = "#6A6A6A"
+blue    = "#7A7A7A"
+magenta = "#8A8A8A"
+cyan    = "#9A9A9A"
+white   = "#FFFFFF"
+
+# ===============================
+# Bright ANSI Colors (lighter grays)
+# ===============================
+[colors.bright]
+black   = "#2C2C2E"
+red     = "#555555"
+green   = "#666666"
+yellow  = "#777777"
+blue    = "#888888"
+magenta = "#999999"
+cyan    = "#AAAAAA"
+white   = "#F2F2F2"
+
+# ===============================
+# Indexed colors for accents (all gray)
+# ===============================
+[[colors.indexed_colors]]
+index = 16
+color = "#BBBBBB"
+
+[[colors.indexed_colors]]
+index = 17
+color = "#DDDDDD"

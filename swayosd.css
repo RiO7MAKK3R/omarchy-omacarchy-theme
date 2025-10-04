@@ -1,0 +1,5 @@
+@define-color background-color #1C1C1E;  /* Dark graphite background, matches panels */
+@define-color border-color     #AEB1B8;  /* Soft silver for borders */
+@define-color label            #E5E5E5;  /* Light gray text for readability */
+@define-color image            #E5E5E5;  /* Icons/images follow text color */
+@define-color progress         #E5E5E5;  /* Progress bars in light gray for subtlety */

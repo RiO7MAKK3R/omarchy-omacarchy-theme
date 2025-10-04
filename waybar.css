@@ -1,0 +1,6 @@
+@define-color foreground #FFFFFF;  /* White text/icons for clarity */
+@define-color background #1C1C1E;  /* macOS graphite dark gray */
+@define-color border     #3A3A3C;  /* Slightly lighter gray for separation */
+@define-color accent     #8E8E93;  /* macOS silver accent */
+
+@import "/home/ansh/.config/omarchy/themes/omacarchy/overrides.css";
