@@ -28,15 +28,11 @@ Omacarchy focuses on clarity, comfort, and modern minimalism. The theme is desig
 
 ## Installation
 
+```console
 
-omarchy-theme-install https://github.com/YourUsername/omarchy-omacarchy-theme/
+omarchy-theme-install https://github.com/RiO7MAKK3R/omarchy-omacarchy-theme
 
-
-OR
-
-
-Copy the theme folder to your Omarchy config themes directory.
-
+```
 
 ## Suggested Font
 
@@ -62,4 +58,6 @@ Accents are subtle by design; adjust cursor, selection, or panel colors if neede
 
 Border and panel widths can be customized in Waybar, Walker, and Hyprlock configs
 
-## Previews
+## Preview
+![image alt](https://github.com/RiO7MAKK3R/omarchy-infernium-dark-theme/blob/main/infernium-dark-preview-1.png)
+![image alt](https://github.com/RiO7MAKK3R/omarchy-infernium-dark-theme/blob/main/infernium-dark-preview-2.png)
