@@ -1,5 +1,5 @@
 @define-color selected-text #C0C0C0;  /* Light gray highlight for selection */
-@define-color text          #5E5E5E;  /* Main text color - off-white */
+@define-color text          #8e8e8e;  /* Main text color - off-white */
 @define-color base          #2C2C2E;  /* Dark graphite background */
 @define-color border        #C0C0C0;  /* Medium gray for borders/focus */
 @define-color foreground    #E0E0E0;  /* Uniform text/foreground color */
