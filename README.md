@@ -59,5 +59,6 @@ Accents are subtle by design; adjust cursor, selection, or panel colors if neede
 Border and panel widths can be customized in Waybar, Walker, and Hyprlock configs
 
 ## Preview
-![image alt](https://github.com/RiO7MAKK3R/omarchy-infernium-dark-theme/blob/main/infernium-dark-preview-1.png)
-![image alt](https://github.com/RiO7MAKK3R/omarchy-infernium-dark-theme/blob/main/infernium-dark-preview-2.png)
+![image alt](https://github.com/RiO7MAKK3R/omarchy-omacarchy-theme/blob/main/omacarchy-preview-1.png)
+![image alt](https://github.com/RiO7MAKK3R/omarchy-omacarchy-theme/blob/main/omacarchy-preview-2.png)
+![image alt](https://github.com/RiO7MAKK3R/omarchy-omacarchy-theme/blob/main/omacarchy-preview-3.png)
